@@ -21,7 +21,8 @@
     
       
     var s1 = document.getElementById("1").checked ? "Dapp dat 1 goes here  \n" : "";
-    var s2 = document.getElementById("2").checked ? src="AppData/Intro.txt" : "";
+    var s2 = document.getElementById("2").checked ? fetch("https://lu-calm.github.io/AppData/Intro.txt")
+.then( response => response.text() )  : "";
     var s3 = document.getElementById("3").checked ? "Dapp Data 3 goes here  \n" : "";
     var summary = s1 + s2 + s3;
     return summary;
