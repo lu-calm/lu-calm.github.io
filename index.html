@@ -18,20 +18,27 @@
     
    <script>
    
+   function load() {
+    var file = new XMLHttpRequest();
+    file.open("GET", "https://lu-calm.github.io/AppData/Intro.txt", true);
+    file.onreadystatechange = function() {
+      if (file.readyState === 4) {  // Makes sure the document is ready to parse
+        if (file.status === 200) {  // Makes sure it's found the file
+          text = file.responseText;
+          document.getElementById("div1").innerHTML = text;
+        }
+      }
+    }
+}
+
+
+ 
    
     function dynamic_text() {
 
-var app2 = "test";
-
-
-fetch('https://lu-calm.github.io/AppData/Intro.txt')
-  .then(response => response.text())
-  .then((data) => app2;
-      
-    
-      
+        
     var s1 = document.getElementById("1").checked ? "Dapp dat 1 goes here  \n" : "";
-    var s2 = document.getElementById("2").checked ? app2 : "";
+    var s2 = document.getElementById("2").checked ? load() : "";
     var s3 = document.getElementById("3").checked ? "Dapp Data 3 goes here  \n" : "";
     var summary = s1 + s2 + s3;
     return summary;
