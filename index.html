@@ -13,16 +13,25 @@
   <label for="Dapp3"> Dapp 3</label><br><br>
   
  </form> 
-   
+
 
     
    <script>
+   
+   
     function dynamic_text() {
+
+var app2 = "test";
+
+
+fetch('https://lu-calm.github.io/AppData/Intro.txt')
+  .then(response => response.text())
+  .then((data) => app2;
+      
     
       
     var s1 = document.getElementById("1").checked ? "Dapp dat 1 goes here  \n" : "";
-    var s2 = document.getElementById("2").checked ? fetch("https://lu-calm.github.io/AppData/Intro.txt")
-.then( response => response.text() )  : "";
+    var s2 = document.getElementById("2").checked ? app2 : "";
     var s3 = document.getElementById("3").checked ? "Dapp Data 3 goes here  \n" : "";
     var summary = s1 + s2 + s3;
     return summary;
