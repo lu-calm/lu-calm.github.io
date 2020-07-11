@@ -17,14 +17,14 @@
 
     
    <script>
+    
+     var Dapp2Info
      
-   let Dapp2Info;    
 fetch('https://lu-calm.github.io/test.txt')
   .then(response => response.text())
-  .then((data){
-          Dapp2Info = data;
-        })
-     
+  .then((data) => {
+    Dapp2Info(data)
+  })
      
      
      
