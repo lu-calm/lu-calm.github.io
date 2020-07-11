@@ -17,13 +17,22 @@
 
     
    <script>
-   
-   
+     
+   let Dapp2Info;    
+fetch('https://lu-calm.github.io/test.txt')
+  .then(response => response.text())
+  .then((data){
+          Dapp2Info = data;
+        })
+     
+     
+     
+     
     function dynamic_text() {
 
         
     var s1 = document.getElementById("1").checked ? "Dapp data 1 goes here  \n" : "";
-    var s2 = document.getElementById("2").checked ? "Dapp data 2 goes here  \n" : "";
+    var s2 = document.getElementById("2").checked ? Dapp2Info : "";
     var s3 = document.getElementById("3").checked ? "Dapp Data 3 goes here  \n" : "";
     var summary = s1 + s2 + s3;
     return summary;
