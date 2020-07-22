@@ -1,65 +1,77 @@
-
+<!DOCTYPE html>
 <html>
 <body>
-  
-   <h2>Ethereum Applications Used</h2>
-<p>Please select the the applications you wish to give access to</p>
 
 
-  <input type="checkbox" id="1" name="Dapp1" value="Dapp1">
-  <label for="Dapp1"> Dapp 1</label><br>
-  <input type="checkbox" id="2" name="Dapp2" value="Dapp2">
-  <label for="Dapp2"> Dapp 2</label><br>
-  <input type="checkbox" id="3" name="Dapp3" value="Dapp3">
-  <label for="Dapp3"> Dapp 3</label><br><br>
-  
- </form> 
+<h1>Eth-ter-I-Die</h1>
+<p>Placeholder for instructions on how to use go here</p>
 
+<h2>Select Wallets</h2>
+<form>
+  <input type="checkbox" id="001" name="dapp" onchange='getSelectedCheckboxValues()' value='/ledger.txt'>
+  <label for="001"> Ledger</label><br>
+  <input type="checkbox" id="002" name="dapp" onchange='getSelectedCheckboxValues()' value='/metamask.txt'>
+  <label for="002"> MetaMask</label><br>
+</form>
+<h2>Select Exchanges</h2>
+<form>
+  <input type="checkbox" id="003" name="dapp" onchange='getSelectedCheckboxValues()' value="OpenSea">
+  <label for="003"> OpenSea</label><br>
+  <input type="checkbox" id="004" name="dapp" onchange='getSelectedCheckboxValues()' value="UniSwap">
+  <label for="004"> UniSwap</label><br>
+</form>
 
-    
-   <script>
-    var intro;
-    var Dapp1Info;
-    var Dapp2Info;
-    var Dapp3Info;
-    
- fetch('https://lu-calm.github.io/AppData/Intro.txt')
+<br>
+<br>
+
+<script>
+
+var Intro, DappsSumm, End, FetchAddress, FileSumm;
+//var totalDapps = document.querySelectorAll('input[type="checkbox"]:checked').length + document.querySelectorAll('input[type="checkbox"]:unchecked').length;
+
+fetch('/intro.txt')
   .then(response => response.text())
   .then((data) => {
-    intro = data;
-  })           
-    
-    
-fetch('https://lu-calm.github.io/test.txt')
-  .then(response => response.text())
-  .then((data) => {
-    Dapp1Info = data;
+    Intro = data;
   })
- 
-  fetch('/test.txt')
-  .then(response => response.text())
-  .then((data) => {
-    Dapp2Info = data;
-  })
-     
-   fetch('https://lu-calm.github.io/test.txt')
-  .then(response => response.text())
-  .then((data) => {
-    Dapp3Info = data;
-  })
-     
-    function dynamic_text() {
 
-        
-    var s1 = document.getElementById("1").checked ? Dapp1Info : "";
-    var s2 = document.getElementById("2").checked ? Dapp2Info : "";
-    var s3 = document.getElementById("3").checked ? Dapp3Info : "";
-    var summary = intro + s1 + s2 + s3;
-    return summary;
-     
-     
-   
-       }
+  fetch('/end.txt')
+    .then(response => response.text())
+    .then((data) => {
+      End = data;
+    })
+
+function fetchDappData(value){
+FetchAddress = value;
+fetch(FetchAddress)
+ .then(response => response.text())
+ .then((data) => {
+ DappsSumm += data;
+ })
+ }
+
+function getSelectedCheckboxValues(){
+  DappsSumm = ""
+ const checkboxes = document.querySelectorAll("input[type='checkbox']:checked");
+     var values = [];
+     checkboxes.forEach((checkbox) => {
+         values.push(checkbox.value);
+     });
+    values.forEach(fetchDappData);
+    }
+
+function Gather(){
+return FileSumm = Intro + DappsSumm + End;
+}
+
+//Code for appending blobs (1 - 10 blobs being appended)
+//var blob = new Blob([],  {type: "text/plain"});
+//for (var i=0; i<10; i++){
+//    blob = new Blob([blob," "+i], {type: "text/plain"});
+//}
+
+
+//below uses gather() to retrieve FileSum
 
     function download_file(name, contents, mime_type) {
         mime_type = mime_type || "text/plain";
@@ -80,10 +92,9 @@ fetch('https://lu-calm.github.io/test.txt')
         dlink.click();
         dlink.remove();
     }
-    </script>
-    
-         <button onclick='download_file("Eth_ter_I_Die.txt", dynamic_text())'>Download</button>   
-     
-    
+</script>
+
+<button onclick='download_file("Ether-I-Die.txt", Gather())'>Download File</button>
+
 </body>
 </html>
