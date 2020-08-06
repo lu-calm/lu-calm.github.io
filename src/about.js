@@ -5,8 +5,7 @@ class About extends Component {
     return (
       <div>
         <h2>About</h2>
-        <p>Mauris sem velit, vehicula eget sodales vitae,
-        rhoncus eget sapien:</p>
+        <p>This is testing if it is lucalm that is hosting the site </p>
       </div>
     );
   }
