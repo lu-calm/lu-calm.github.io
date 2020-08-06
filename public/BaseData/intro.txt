@@ -1,5 +1,0 @@
-------------------------------------------------------------------------------------------
-Keep text between the dashes above
-
-
-This is the intro text. please print :)
