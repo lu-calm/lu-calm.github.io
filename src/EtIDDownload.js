@@ -51,7 +51,7 @@ function MyVerticallyCenteredModal(props) {
 
       </Modal.Body>
       <Modal.Footer>
-      <Button variant="primary" type="submit" onClick={() => { download_FS("Ether-I-Die.txt", gather()) }}>Agree and Download</Button>
+      <Button variant="primary" type="submit" onClick={() => { download_FS("Eth-ter-I-Die.txt", gather()) }}>Agree and Download</Button>
         <Button variant="secondary" onClick={props.onHide}>Close</Button>
       </Modal.Footer>
     </Modal>
