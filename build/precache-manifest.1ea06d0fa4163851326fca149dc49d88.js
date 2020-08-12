@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "598a06ecfb42a5d7bd22b69ecf536638",
+    "revision": "2e3766b1c39baa5c250fe960cbfbf5ec",
     "url": "/lu-calm.github.io/index.html"
   },
   {
