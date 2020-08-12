@@ -23,12 +23,14 @@ const EtIDNav = () => (
             <li><NavLink exact to="/">Home</NavLink></li>
             <li><NavLink to="/about">About</NavLink></li>
             <li><NavLink to="/textfiles">The Files</NavLink></li>
+            <li><NavLink to="/support">Support</NavLink></li>
 
           </ul>
           <div className="content">
           <Route exact path="/" component={Home}/>
           <Route path="/about" component={About}/>
           <Route path="/textfiles" component={TextFiles}/>
+          <Route path="/support" component={Support}/>
 
           </div>
         </div>
