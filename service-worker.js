@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lu-calm.github.io/precache-manifest.ae231dff798f5177e8ec89f9984cee1a.js"
+  "/lu-calm.github.io/precache-manifest.1ea06d0fa4163851326fca149dc49d88.js"
 );
 
 self.addEventListener('message', (event) => {
