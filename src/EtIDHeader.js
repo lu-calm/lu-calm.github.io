@@ -2,6 +2,9 @@ import React from 'react';
 
 import { Accordion, Container, Card, Row, Col, Toast, Image } from 'react-bootstrap'
 
+import logo from './logoxs.svg';
+
+
 
   //check if need to justufy content below!
 const EtIDHeader = () => (
@@ -9,7 +12,7 @@ const EtIDHeader = () => (
 
   <Row className="justify-content-md-center">
   <Col>
-<Image width="180" className="rounded mx-auto d-block" src="logoxs.svg" />
+<Image width="180" className="rounded mx-auto d-block" src={logo} alt="Logo" />
 
     </Col>
   </Row>

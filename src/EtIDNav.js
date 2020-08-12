@@ -7,6 +7,7 @@ import {
 } from "react-router-dom";
 import Home from "./home.js";
 import TextFiles from "./textfiles.js";
+import Support from "./support.js";
 import About from "./about.js";
 import "./App.css";
 
