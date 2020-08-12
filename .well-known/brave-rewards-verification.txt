@@ -1,0 +1,5 @@
+
+This is a Brave Rewards publisher verification file.
+
+Domain: eth-ter-i-die.rip
+Token: 9405bdce21f0b3a4cdf3a5eb9f1b07c3310eced304cde1ccfe30cc5f00316c76
