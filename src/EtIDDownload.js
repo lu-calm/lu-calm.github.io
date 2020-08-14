@@ -38,15 +38,18 @@ function MyVerticallyCenteredModal(props) {
     >
       <Modal.Header closeButton>
         <Modal.Title id="contained-modal-title-vcenter">
-          Modal heading
+          Disclaimer
         </Modal.Title>
       </Modal.Header>
       <Modal.Body>
-        <h4>Centered Modal</h4>
-        <p>
-          Cras mattis consectetur purus sit amet fermentum. Cras justo odio,
-          dapibus ac facilisis in, egestas eget quam. Morbi leo risus, porta ac
-          consectetur ac, vestibulum at eros.
+          <p class="text-break">
+        By confirming this .txt file download you are agreeing that Eth-ter-I-Die.rip and associated parties are not liable for any loss of Ether or Ethreum tokens/ assets that may occur during this process.
+  </p>
+  <p class="text-break">
+This is a literal “How to Guide” of removing your Ethereum assets.
+</p>
+<p class="text-break">
+ Do Not save any seed phrase digitally and keep the completed document in a safe place.
         </p>
 
       </Modal.Body>
