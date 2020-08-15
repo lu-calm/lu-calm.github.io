@@ -18,11 +18,11 @@ class Support extends Component {
             <Card.Body>
 
             <p class="text-center">
-I strongly believe Eth-ter-I-Die should be a free service for all of the Ethereum community, and I will work on addressing that.
+I strongly believe Eth-ter-I-Die should be a free service for all of the Ethereum community to benefit from. However there are costs associated in keeping it running and improving.
           </p>
 
           <p class="text-center">
-          However if you are happy with this service and want to support future features a donation would be greatly appreciated
+          If you are happy with this service and want to support future features, a donation would be greatly appreciated.
           {'  '} <span aria-label="Beaming Smiley Face" role="img">&#128522;</span>
 
   </p>
