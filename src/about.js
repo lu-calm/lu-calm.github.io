@@ -98,17 +98,17 @@ class About extends Component {
               <span aria-label="Beaming Smiley Face" role="img">&#128522;</span>
 
                 </p>
-                <p>
-              I am attempting to learn to code/ develop DApps on the Ethereum blockchain.
+              <p>
+              Eth-ter-I-Die is my first attempt at coding and has since become a passion project.
               </p>
               <p>
-              Eth-ter-I-Die is my first attempt at coding and now has become a passion project for me.
+              I use Eth-tet-I-Die myself and I am seeing first hand how complicated Ethereum and its ecosystem is for the less technologically minded.
               </p>
               <p>
-              I use Eth-tet-I-Die myself and am seeing first hand how complicated it is for the less technologically minded. We need to make it easier for our loved ones to understand this technology so they can benefit when we die.
+              I believe we need to make it easier for our loved ones to understand this technology so they can benefit when we die. Hence I will keep improving Eth-ter-I-Die as best as I can.
               </p>
               <p>
-              You can see the painstaking process to get to this stage via my Eth-ter-I-Die Development youtube playlist below.
+              Anyway, you can see the painstaking process to get to this stage via my Eth-ter-I-Die Development youtube playlist below.
               </p>
               <p class="text-center">
               <SocialIcon url="https://www.youtube.com/playlist?list=PLW-TtH0Ie84bBTkv1cVVI0L_7kLRZ-UmY" bgColor="#000000"/>
