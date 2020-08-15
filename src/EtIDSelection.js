@@ -10,11 +10,11 @@ const EtIDSelection= () => (
  <Container fluid >
  <Row className="justify-content-md-center">
    <Col>
-       <h3 class="text-center">Wallets</h3>
+       <h3 class="text-center">Blockchain Explorer</h3>
        <p class="text-center">
-       "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+       Please select the Blockchain Explorer you wish you beneficiaries to use. It is recommended that you pick a Blockchain Explorer as it helps reiterate concepts described in the Intro text before moving Ether or Ethereum based assets.
        </p>
-   </Col>
+       </Col>
  </Row>
 
  <Row>
@@ -22,21 +22,20 @@ const EtIDSelection= () => (
 
  <Col>
 <div class="d-flex justify-content-center">
-<ToggleButtonGroup type='checkbox' name='Wallets'>
-<ToggleButton variant="outline-dark" onChange={getSelectedCheckboxValues} value='/DappData/metamask.txt'>MetaMask</ToggleButton>
-
-
-<ToggleButton variant="outline-dark" onChange={getSelectedCheckboxValues} value='/DappData/ledger.txt'>Ledger</ToggleButton>
- </ToggleButtonGroup>
+<ToggleButtonGroup type='checkbox' name='BlockChainExplorer'>
+<ToggleButton variant="outline-dark" onChange={getSelectedCheckboxValues} value='/DappData/etherscan.txt' >Etherscan</ToggleButton>
+</ToggleButtonGroup>
 </div>
      </Col>
    </Row>
+
+
      <br />
    <Row className="justify-content-md-center">
      <Col>
-         <h3 class="text-center">Exchanges</h3>
+         <h3 class="text-center">On Ramp/ Off Ramp</h3>
          <p class="text-center">
-         "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+Please select your chosen On-Ramp/ Off-Ramp for your beneficiaries to transfer your Ether and Ethereum based assets to their local currency.
          </p>
      </Col>
    </Row>
@@ -45,63 +44,14 @@ const EtIDSelection= () => (
  <Row>
    <Col>
   <div class="d-flex justify-content-center">
-  <ToggleButtonGroup type='checkbox' name='Wallets'>
-  <ToggleButton variant="outline-dark" onChange={getSelectedCheckboxValues} value='/DappData/metamask.txt' disabled>OpenSea</ToggleButton>
-  <ToggleButton variant="outline-dark" onChange={getSelectedCheckboxValues} value='/DappData/ledger.txt' disabled>UniSwap</ToggleButton>
+  <ToggleButtonGroup type='checkbox' name='On Ramp/ Off Ramp'>
+  <ToggleButton variant="outline-dark" onChange={getSelectedCheckboxValues} value='/DappData/coinbase.txt' >Coinbase</ToggleButton>
+  <ToggleButton variant="outline-dark" onChange={getSelectedCheckboxValues} value='/DappData/uphold.txt' disabled>Uphold</ToggleButton>
 
-
-  <ToggleButton variant="outline-dark" onChange={getSelectedCheckboxValues} value='/DappData/ledger.txt' disabled>Other</ToggleButton>
    </ToggleButtonGroup>
   </div>
        </Col>
      </Row>
-
-<Row className="justify-content-md-center">
-  <Col>
-      <h3 class="text-center">Dapps</h3>
-      <p class="text-center">
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-      </p>
-  </Col>
-</Row>
-
-<Row>
-<Col>
-<div class="d-flex justify-content-center">
-
-<ToggleButtonGroup type='checkbox' name='Exchanges'>
-<ToggleButton variant="outline-dark" value='/DappData/ledger.txt' disabled>Compund</ToggleButton>
-
-<ToggleButton variant="outline-dark" value='/DappData/ledger.txt' disabled>CryptoKitties</ToggleButton>
-
-<ToggleButton variant="outline-dark" value='/DappData/ledger.txt' disabled>Pool Together</ToggleButton>
-
-<ToggleButton variant="outline-dark" value='/DappData/ledger.txt' disabled>Maker Dao</ToggleButton>
- </ToggleButtonGroup>
- </div>
-
-</Col>
-</Row>
-
-<Row className="justify-content-md-center">
-  <Col>
-      <h3 class="text-center">Block Searcher</h3>
-      <p class="text-center">
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-      </p>
-  </Col>
-</Row>
-
-<Row>
-<Col>
-<div class="d-flex justify-content-center">
-
-<ToggleButtonGroup type='checkbox' name='Exchanges'>
-<ToggleButton variant="outline-dark" value='/DappData/ledger.txt' disabled>EtherScan</ToggleButton>
- </ToggleButtonGroup>
-</div>
-</Col>
-</Row>
 
        </Container>
 );

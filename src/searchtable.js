@@ -13,7 +13,7 @@ const { SearchBar, ClearSearchButton } = Search;
 const linkFormatterA = (cell, row, rowIndex) => {
   return (
     <a href={cell} target="_blank" rel="noopener noreferrer">
-      DApp Website Link
+      Website/ DApp Link
     </a>
   );
 };
@@ -30,10 +30,10 @@ const linkFormatterB = (cell, row, rowIndex) => {
 const products = [
       {
         id: 1,
-        'name': 'MetaMask',
-        'category': 'Wallet',
-        dapplink: 'https://metamask.io/',
-        flink:'/DappData/metamask.txt'
+        'name': 'Etherscan.io',
+        'category': 'Blockchain Explorer',
+        dapplink: 'https://etherscan.io/',
+        flink:'/DappData/etherscan.txt'
 
       },
       {
@@ -73,7 +73,7 @@ const products = [
        sort: true
     }, {
     dataField: 'dapplink',
-    text: "Dapp Link",
+    text: 'Website/ DApp Link',
     formatter: linkFormatterA
   },  {
     dataField: "flink",

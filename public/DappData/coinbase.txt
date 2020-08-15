@@ -1,0 +1,9 @@
+------------------------------------------------------------------------------------------
+-= Service Name: Coinbase =-
+-= Service Type: Off Ramp =-
+
+-= This information was updated and correct as of: 15/08/2020 =-
+
+-= Note: This section creates a method of transferring Ether and Assets to Fiat Currencies
+to a local currency. This is essentially your own Wallet and should be treated like a bank
+ account, keeping access information as safe as possible =-

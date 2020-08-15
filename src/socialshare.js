@@ -5,7 +5,7 @@ import { Facebook, Twitter, Email, Reddit } from 'react-sharingbuttons'
 
 const SharingButtons = () => {
   const url = 'https://eth-ter-i-die.rip/'
-  const shareText = 'Check out Eth-ter-I-Die, guide your loved ones to your Ethereum assets after you have popped your clogs!'
+  const shareText = 'Check out Eth-ter-I-Die. Use it to guide your loved ones to your Ethereum assets after you have popped your clogs!'
 
   return (
     <div>
