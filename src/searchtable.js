@@ -40,8 +40,8 @@ const products = [
         id: 2,
         'name': 'CoinBase',
         'category': 'Off Ramp',
-        dapplink: 'https://metamask.io/',
-        flink : '/DappData/metamask.txt'
+        dapplink: 'https://www.coinbase.com/',
+        flink : '/DappData/coinbase.txt'
       },
       {
         id: 3,
