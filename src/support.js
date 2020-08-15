@@ -16,8 +16,13 @@ class Support extends Component {
           </Accordion.Toggle>
           <Accordion.Collapse eventKey="0">
             <Card.Body>
+
+            <p class="text-center">
+I strongly believe Eth-ter-I-Die should be a free service for all of the Ethereum community, and I will work on addressing that.
+          </p>
+
           <p class="text-center">
-          If you are happy with this service and want to support future features a donation would be greatly appreciated
+          However if you are happy with this service and want to support future features a donation would be greatly appreciated
           {'  '} <span aria-label="Beaming Smiley Face" role="img">&#128522;</span>
 
   </p>
@@ -37,8 +42,12 @@ class Support extends Component {
         <Accordion.Collapse eventKey="1">
           <Card.Body>
         <p class="text-center">
-Bear with me, I am very much new to the world of coding!
+Bear with me, I work on Eth-ter-I-Die as and when I can.
   </p>
+
+  <p class="text-center">
+I will keep adding new DApps, services and features for the betterment of the site. However I am quite new to coding so it is a bit of a learning curve!
+</p>
   <p class="text-center">
   You can witness my struggles on my youtube channel. Feel free to comment if you have any tips or advice, any help is greatly appreciated!
   </p>

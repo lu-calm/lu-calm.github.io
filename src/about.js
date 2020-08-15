@@ -102,10 +102,13 @@ class About extends Component {
               I am attempting to learn to code/ develop DApps on the Ethereum blockchain.
               </p>
               <p>
-              Eth-ter-I-Die is my first attempt at coding/ developing a project.
+              Eth-ter-I-Die is my first attempt at coding and now has become a passion project for me.
               </p>
               <p>
-              You can see the painstaking proces to get to this stage via my Eth-ter-I-Die Development youtube playlist
+              I use Eth-tet-I-Die myself and am seeing first hand how complicated it is for the less technologically minded. We need to make it easier for our loved ones to understand this technology so they can benefit when we die.
+              </p>
+              <p>
+              You can see the painstaking process to get to this stage via my Eth-ter-I-Die Development youtube playlist below.
               </p>
               <p class="text-center">
               <SocialIcon url="https://www.youtube.com/playlist?list=PLW-TtH0Ie84bBTkv1cVVI0L_7kLRZ-UmY" bgColor="#000000"/>
