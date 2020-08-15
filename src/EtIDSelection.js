@@ -22,7 +22,7 @@ const EtIDSelection= () => (
 
  <Col>
 <div class="d-flex justify-content-center">
-<ToggleButtonGroup type='checkbox' name='BlockChainExplorer'>
+<ToggleButtonGroup type='checkbox' name='BlockChainExplorer' defaultValue={'/DappData/etherscan.txt'}>
 <ToggleButton variant="outline-dark" onChange={getSelectedCheckboxValues} value='/DappData/etherscan.txt' >Etherscan</ToggleButton>
 </ToggleButtonGroup>
 </div>
