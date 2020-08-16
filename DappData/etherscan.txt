@@ -6,7 +6,7 @@
 
 -= Note: This section is to inform, no assets will be transferred during this section. =-
 
-Etherscan.io is a “Blockchain Explorer” as you can use EtherScan.io explore the contents
+Etherscan.io is a "Blockchain Explorer" as you can use EtherScan.io explore the contents
 of the Ethereum blockchain.
 
 Within this section of the document we will cover the following topics.
@@ -37,7 +37,7 @@ address using Etherscan.io.
 
 In your browsers search/ address bar type:
 
-https://etherscan.io/address/”My Ethereum Address”
+https://etherscan.io/address/"My Ethereum Address"
 
 Put My Ethereum Address, that I have identified previously, into the website URL.
 
@@ -47,21 +47,21 @@ Once completed, press Enter on the keyboard to access the website.
 
 Etherscan.io should load up with My Ethereum Address details.
 
-Take note of the “Overview” section.
+Take note of the "Overview" section.
 
-The “Balance” refers to how much Ether is in my Address.
+The "Balance" refers to how much Ether is in my Address.
 
-The “Ether Value” refers to how much that Ether is worth in US Dollars.
+The "Ether Value" refers to how much that Ether is worth in US Dollars.
 
-The “Token” field refers to the current worth in US Dollars on how much Ethereum based
+The "Token" field refers to the current worth in US Dollars on how much Ethereum based
 Cryptocurrencies and Tokens (Assets) are associated with my Address.
 
-Note: Not all “Tokens” displayed will be removed from my address during the instructions
+Note: Not all "Tokens" displayed will be removed from my address during the instructions
 on this document as some are considered SPAM Tokens
 (like SPAM emails, interacting with them may cause losses.)
 
 The aim of this document is to retrieve as much of the financial worth displayed in
-the “Overview” section to your bank account.
+the "Overview" section to your bank account.
 
 End of Etherscan.io section.
 ------------------------------------------------------------------------------------------
