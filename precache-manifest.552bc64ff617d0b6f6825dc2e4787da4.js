@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "28d6a12124fd2bce3e9057163f1c0721",
+    "revision": "d735cb6e8e879fc3bfae87f2c29a2151",
     "url": "/lu-calm.github.io/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lu-calm.github.io/static/css/2.9e2b3803.chunk.css"
   },
   {
-    "revision": "c96e6d42b99a9bfd3a7d",
+    "revision": "5d858096624da44f899b",
     "url": "/lu-calm.github.io/static/css/main.4b2b9bdc.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lu-calm.github.io/static/js/2.4d931c24.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c96e6d42b99a9bfd3a7d",
-    "url": "/lu-calm.github.io/static/js/main.c5b08c0a.chunk.js"
+    "revision": "5d858096624da44f899b",
+    "url": "/lu-calm.github.io/static/js/main.88f228f9.chunk.js"
   },
   {
     "revision": "36d1227ab03d698d13b1",
