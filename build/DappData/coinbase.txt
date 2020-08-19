@@ -4,9 +4,9 @@
 
 -= This information was updated and correct as of: 15/08/2020 =-
 
--= Note: This section creates a method of transferring Ether and Assets to Fiat Currencies
-to a local currency. This is essentially your own Wallet and should be treated like a bank
- account, keeping access information as safe as possible =-
+-= Note: This section creates a method of transferring Ether and Assets to Fiat
+Currencies to a local currency. This is essentially your own Wallet and should be treated
+like a bank account, keeping access information as safe as possible =-
 
 Coinbase is a digital asset exchange that brokers the transfer of Cryptocurrencies to
 Fiat Currencies and vice versa.
@@ -48,7 +48,7 @@ You will be sent a verification email to the email address you supplied. Follow 
 supplied in the email from Coinbase.
 
 As an additional security requirement Coinbase will direct you to set up two-step
-varication. Two-step verification requires a valid cell/ mobile phone number. Once you
+verification. Two-step verification requires a valid cell/ mobile phone number. Once you
 have submitted your phone number, a code will be sent to your cell/ mobile phone to type
 into Coinbase. Each time you log-in to Coinbase account you will need you phone as the
 log-in process requires a code that will be sent to your phone. In addition to log-ins,
