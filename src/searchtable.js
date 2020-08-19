@@ -45,17 +45,24 @@ const products = [
       },
       {
         id: 3,
-        'name': 'Uniswap',
-        'category': 'Exchange',
+        'name': 'Metamask',
+        'category': 'Wallet/ DApp Gateway',
         dapplink: 'https://metamask.io/',
         flink : '/DappData/metamask.txt'
       },
       {
         id: 4,
-        'name': 'Ledger',
-        'category': 'Wallet',
-        dapplink: 'https://shop.ledger.com/',
-        flink : '/DappData/ledger.txt'
+        'name': 'Introduction Text',
+        'category': 'Intro',
+        dapplink: 'https://eth-ter-i-die.rip/',
+        flink : '/BaseData/intro.txt'
+      },
+      {
+        id: 5,
+        'name': 'End Text',
+        'category': 'End',
+        dapplink: 'https://eth-ter-i-die.rip/',
+        flink : '/BaseData/end.txt'
       },
     ]
 

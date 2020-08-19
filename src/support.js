@@ -48,18 +48,21 @@ Bear with me, I work on Eth-ter-I-Die as and when I can.
   <p class="text-center">
 I will keep adding new DApps, services and features for the betterment of the site. However I am quite new to coding so it is a bit of a learning curve!
 </p>
+
+<p class="text-center">
+If you would like to help improve the shambles of code I have written, here is the GitHub account!
+</p>
+<p class="text-center">
+<SocialIcon url="https://github.com/lu-calm/eth-ter-i-die" bgColor="#000000"/>
+</p>
+
   <p class="text-center">
   You can witness my struggles on my youtube channel. Feel free to comment if you have any tips or advice, any help is greatly appreciated!
   </p>
 <p class="text-center">
   <SocialIcon url="https://www.youtube.com/channel/UC9GTIw90lZei5mUfjmTf7fg" bgColor="#000000"/>
 
-  </p>
-<p class="text-center">
-If you would like to help improve the shambles of code I have written, here is the GitHub account!
-</p>
-<p class="text-center">
-<SocialIcon url="https://github.com/lu-calm/eth-ter-i-die" bgColor="#000000"/>
+
 
         </p>
           </Card.Body>
