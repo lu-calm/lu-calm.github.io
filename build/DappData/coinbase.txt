@@ -5,8 +5,8 @@
 -= This information was updated and correct as of: 15/08/2020 =-
 
 -= Note: This section creates a method of transferring Ether and Assets to Fiat
-Currencies to a local currency. This is essentially your own Wallet and should be treated
-like a bank account, keeping access information as safe as possible =-
+Currencies to a local currency. This is essentially your own Wallet and should be 
+treated like a bank account, keeping access information as safe as possible =-
 
 Coinbase is a digital asset exchange that brokers the transfer of Cryptocurrencies to
 Fiat Currencies and vice versa.
@@ -38,11 +38,12 @@ From here you will need to go through the process of creating an account.
 
 If you have issues with the account creation process, in your internet browser
 search/ address bar type "help.coinbase.com". Once the site is accessed, use the search
-feature to help resolve your issue. Remember do not share any information in this document
-in your support request.
+feature to help resolve your issue. Remember do not share any information in this 
+documentation your support request.
 
-Click the "Get Started" button and fill in your details including name, address, password
-and click the checkbox to agree to Coinbase's terms and conditions once happy to continue.
+Click the "Get Started" button and fill in your details including name, address, 
+password and click the checkbox to agree to Coinbase's terms and conditions once happy 
+to continue.
 
 You will be sent a verification email to the email address you supplied. Follow the link
 supplied in the email from Coinbase.
@@ -70,7 +71,7 @@ This will give you all the details about your account. Navigate to "Payment meth
 click the "Add a payment method" option. Choose the correct Bank Account option for
 yourself and follow the onscreen instructions to complete the Bank account set-up.
 
-For the transferring, converting and depositing of Cryptocurrencies to FIAT currencies
+For the transferring, converting and depositing of Cryptocurrencies to Fiat currencies
 additional verification is required.
 
 In the Settings area, visited previously, navigate to "Account limits." You will be asked
@@ -113,7 +114,7 @@ and find "Ethereum" in the "Your assets" list. On this page it will display your
 Ether balance, this will be 0 for now. On the right hand of the page there is an option
 that says "Receive".
 
-Click the Receive text.
+Click the "Receive" text.
 
 Underneath the Square QR Code on the right-hand side of the page
 (you may need to scroll down) there will be text labelled "Address". The code to the
@@ -128,9 +129,9 @@ This address is where we will be sending my Ether in the future.
 Do not write the Address down to use as there may be a possibility of mistyping the
 Address out.
 
-When you need to put in your Ethereum Address, I recommend navigating to this page and
-copying the Address code by pressing the icon as described above. Then paste your Address
-in the appropriate field.
+When you need to enter in your Ethereum Address to receive Ether, I recommend navigating 
+to this page and copying the Address code by pressing the icon as described above. 
+Then paste your Address in the appropriate field.
 
 -=Transfer from Ether to Local Currency=-
 
@@ -142,9 +143,9 @@ this wording with the name of the currency you use.
 
 Coinbase allows you to convert Ether to your "Local currency". You will only be able to
 do this when you have Ether in your Ethereum Address, therefore this should only be done
-once all the Ether transfers have been done from my Address to Your Address. You may need
-to come back to this section of the document at a later point once all the Transactions
-have been completed from My Address.
+once all the Ether transfers have been done from my Address to Your Address. You may 
+need to come back to this section of the document at a later point once all the 
+Transactions have been completed from My Address.
 
 To transfer the Ether, start by clicking the portfolio link on the top left of the
 Coinbase webpage.
@@ -173,7 +174,7 @@ Accept the trade confirmation.
 This will convert the Ether into your local currency and deposit it in your local
 currency wallet in Coinbase.
 
-Please note Coinbase will charge a fee for this process.
+Please note: Coinbase will charge a fee for this process.
 
 Now we need to withdraw this local currency from your Coinbase local currency wallet to
 your bank account.
@@ -198,7 +199,7 @@ Please note Coinbase will charge a fee for this process.
 
 It may take a few days for the funds to be received into your bank account.
 
-If you have issues with the Ether Withdrawal process, in your internet browser
+If you have issues with the Ether withdrawal process, in your internet browser
 search/ address bar type "help.coinbase.com". Once the site is accessed, use the search
 feature to help resolve your issue. Remember do not share any information in this
 document in your support request.

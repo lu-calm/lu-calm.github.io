@@ -11,7 +11,7 @@ Date: ___/____/_______
 ------------------------------------------------------------------------------------------
 Appendix – Glossary
 
-Address: Ether and Assets are stored to an Address, as standard, Addresses consist of 42
+Address: Ether and Assets are stored to an Address. Addresses consist of 42
 lower case letters, upper case letters and numbers. An Ethereum address is like a
 physical address or an email. To send Ether and Assets the sender needs the Address
 of the recipient.
@@ -20,25 +20,26 @@ Address Owner: The individual or group of individuals that can send Ether and As
 that specific address. Essentially anyone who has access to the Seed Phrase of an Address
 could be counted as the Address Owner even if they were not authorised to it.
 Therefore, please keep my Seed Phrase safe.
+
 Assets: In this document Assets are Ethereum based Assets. Ethereum based Assets are
 digital items, coins and tokens that are created, traded or otherwise utilised on the
 Ethereum Blockchain. Assets can have a variety of uses and monetary value.
 
-Blockchain: At its core Blockchain technology is secure record keeping. At a simple level
-a Blockchain is a long line of blocks that contain the results of transactions on them.
-When a new block is created and added to the line, the contents of the block will
-contain the result of the latest transactions that have occurred. For example, Mary sends
-1 Ether to Sarah, that movement is called a Transaction. Once the Transaction fee is paid
-and the Transaction is approved the result will be recorded on the next block that will be
-created and Sarah will have +1 Ether. Once a block is created and accepted to be a part of
-the Blockchain it is very difficult to change the contents of the transactions that
-took place.
+Blockchain: At its core Blockchain technology is secure record keeping of Assets of all 
+the accounts using the Blockchain. At a simple level a Blockchain is a long line of 
+blocks that contain the results of transactions on them. When a new block is created and 
+added to the line, the contents of the block will contain the result of the latest 
+transactions that have occurred. For example, Mary sends 1 Ether to Sarah, that movement 
+is called a Transaction. Once the Transaction fee is paid and the Transaction is approved 
+the result will be recorded on the next block that will be created and Sarah will 
+have +1 Ether. Once a block is created and accepted to be a part of the Blockchain it is 
+very difficult to change the contents of the transactions that took place.
 
 
 Cryptocurrency: Used to describe currencies that use Blockchain technology.
 Blockchain technology is underpinned by cryptography, which is advanced mathematics that
 provide high levels of security. Hence the "crypto" part of the word. Ether is the main
-Cryptocurrency on the Ethereum Blockchain however the Ethereum blockchain allows for
+Cryptocurrency on the Ethereum Blockchain however the Ethereum Blockchain allows for
 individuals and companies to create, trade and utilise their own cryptocurrencies on
 the Ethereum Blockchain.
 
@@ -52,7 +53,7 @@ Blockchain runs on thousands of computers/ servers worldwide.
 Ether: The primary Cryptocurrency/ Token of the Ethereum Blockchain. Ether can be traded
 and used to pay for Transaction fees.
 
-Ethereum: A decentralised blockchain that has its own currency (Ether) and the capability
+Ethereum: A decentralised Blockchain that has its own currency (Ether) and the capability
 to create other Cryptocurrencies and Tokens.
 
 Fiat Currencies: An established, government regulated/ controlled form of currency.
@@ -65,6 +66,17 @@ Fungible Tokens: These can be created, traded and utilised by individuals or com
 Fungible tokens are interchangeable, uniform and divisible tokens. An example of a
 real-world fungible token is the United States of America Dollar.
 
+Gas: Required in order to complete a transaction. The more complex the transaction is,
+the more Gas that is required. Gas is paid in Ether, it is normally represented in a 
+smaller unit of Ether known as Gwei. 1,000,000,000 Gwei is equal to 1 Ether, like how 
+100 Cents are in 1 Dollar. An Address will need Ethereum/ Gwei associated with it in 
+order to carry out a Transaction. The price of Gas changes dependant on the amount of 
+Transactions being requested to be made on the Ethreum Blockchain. 
+
+Gas Price: The amount of Ether (normally represented in Gwei) that Gas will cost.
+
+Gwei: 1,000,000,000 Gwei is equal to 1 Ether, like how 100 Cents are in 1 Dollar.
+
 Non-Fungible Tokens (NFTs): These can be created, traded and utilised by individuals or
 companies. Fungible tokens are unique and non-divisible tokens. An example of a real-world
 non-fungible token is a piece of artwork like the Mona Lisa.
@@ -72,8 +84,8 @@ non-fungible token is a piece of artwork like the Mona Lisa.
 Off Ramp: A term used to describe a service that can transfer your Ethereum Blockchain
 Assets to Fiat currency.
 
-Public Blockchain: A blockchain where the public can observe the address and transactions
-taking place on it. Ethereum is a Public Block Chain.
+Public Blockchain: A Blockchain where the public can observe the address and transactions
+taking place on it. Ethereum is a Public Blockchain.
 
 Real World Value: A term used in this document to reiterate that Ether and Ethereum based
 assets can be transferred to Fiat currencies.
@@ -91,8 +103,8 @@ known as Assets. See Assets in this glossary for further information.
 
 Transaction: An exchange of information, Ether, Assets on the Ethereum Blockchain. It
 requires a transaction fee known as Gas which is paid in Ether. A new transaction is
-recorded as part of a new block in the blockchain. When the block is verified the
-transaction will be represented in the blockchain. For example, Mary sends 1 Ether to
+recorded as part of a new block in the Blockchain. When the block is verified the
+transaction will be represented in the Blockchain. For example, Mary sends 1 Ether to
 Sarah, that movement is called a Transaction. Once the Transaction fee is paid and the
 Transaction is approved the result will be recorded on the next block that will be
 created and Sarah will have +1 Ether.

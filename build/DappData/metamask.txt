@@ -202,5 +202,4 @@ If the Transaction was unsuccessful, repeat this section.
 Once successful all my Ether will now be in your Off-Ramp Ethereum Wallet.
 
 End of MetaMask section
-
 ------------------------------------------------------------------------------------------

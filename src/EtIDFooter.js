@@ -15,16 +15,14 @@ const EtIDFooter= () => (
   <span aria-label="Heart" role="img">&#128420;</span>{' '}Donation Address: 0xa28910bcbe9a1b9119940343c02cae65c1b22cc5 <small><NavLink to="https://etherscan.io/address/0xa28910bcbe9a1b9119940343c02cae65c1b22cc5">View on Etherscan</NavLink></small>
   </pre>
  </p>
- 
+
  <p>
 <SiteSocial />
  </p>
     <p>
 <SharingButtons />
     </p>
-    <p>
----------------------------------------------------------------------------------------------------------------------------------
-    </p>
+    
   </Container>
 </Jumbotron>
 
