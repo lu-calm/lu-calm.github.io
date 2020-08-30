@@ -20,12 +20,11 @@ class About extends Component {
             <Card.Body>
           <p>
           <dl>
-          <dt>
-          News and Updates: 14/08/2020
-          </dt>
-          <dd>
-          Alpha version released
-          </dd>
+          <dt>30/08/2020</dt>
+       <dd>Additonal content added</dd>
+      <dd>- MetaMask</dd>
+        <dd>- Uniswap</dd>
+          <dd>- Website content improved</dd>
           </dl></p>
             </Card.Body>
           </Accordion.Collapse>
@@ -65,10 +64,10 @@ class About extends Component {
               - The generated template will inform your loved ones on how to transfer your Ethereum assets to Ether first and then to fiat. This is in order to reduced complexity and minimise confusion.
               </p>
               <p class="text-break">
-              - The content has been kept as concise as possible for the instructions to be followed as safely as possible. Some principles of Ethereum have been omitted for the purposed of reducing complexity. If you have suggestions of content improvements, please use the links in the footer to contact me.
+              - The content has been kept as concise as possible for the instructions to be followed as safely as possible. Some principles of Ethereum have been omitted for the purposed of reducing complexity. If you have suggestions of content improvements please contact me on <NavLink to="https://twitter.com/lu_calm">My Twitter</NavLink>.
               </p>
               <p class="text-break">
-              - It is assumed you have enough Ether/ Gwei in your account  to cover the transaction fees.
+              - It is assumed you have enough Ether/ Gwei in your account to cover the transaction fees.
 
               </p>
               <p class="text-break">
@@ -78,7 +77,7 @@ class About extends Component {
 - Please make your handwriting as easy to read as possible.
 </p>
 <p class="text-break">
-- Additional wallets can be accommodated by re-doing the form for each wallet. You can remove the Intro and Outro text by clicking on advanced settings and clicking the “Exclude” button. Or you can edit the .txt file to accommodate for additional wallet instructions.
+- Additional wallets can be accommodated by re-doing the form for each wallet. You can remove the Intro and End text by clicking on advanced settings and clicking the “Exclude” button. Or you can edit the .txt file to accommodate for additional wallet instructions.
 </p>
 <p class="text-break">
 - If possible, go through the document and process with your loved ones before you perish with a test wallet.
@@ -99,17 +98,22 @@ class About extends Component {
 
                 </p>
               <p>
-              Eth-ter-I-Die is my first attempt at coding and has since become a passion project.
+              Eth-ter-I-Die is my first attempt at a coding project.
               </p>
               <p>
-              I use Eth-tet-I-Die myself and I am seeing first hand how complicated Ethereum and its ecosystem is for the less technologically minded.
+              I was researching a method of how my Mum could benefit from my research and investments in Ethereum if I die. Something that would help explain key concepts so she can run through the process herself. I couldn’t find anything that really fit the bill. So I decided to make it myself! Not knowing how to code initially didn’t stop me and Eth-ter-I-Die is the result.
               </p>
               <p>
-              I believe we need to make it easier for our loved ones to understand this technology so they can benefit when we die. Hence I will keep improving Eth-ter-I-Die as best as I can.
+              I use Eth-ter-I-Die myself and initially I am adding the DApps and services I use in order to create my “How to retrieve my Ethereum Assets when I Die” Guide. Now I am adding DApps and services that other people want to see added so it can help them too.
               </p>
               <p>
-              Anyway, you can see the painstaking process to get to this stage via my Eth-ter-I-Die Development youtube playlist below.
+
+              I am seeing first hand how complicated Ethereum and its ecosystem is for the less technologically minded. I believe we need to make it easier for our loved ones to understand this technology so they can benefit when we die. Hence I will keep improving Eth-ter-I-Die as best as I can for as long as I can.
+
               </p>
+
+              <p>
+Anyway, you can see the painstaking process to get to this stage via my Eth-ter-I-Die Development YouTube playlist below.              </p>
               <p class="text-center">
               <SocialIcon url="https://www.youtube.com/playlist?list=PLW-TtH0Ie84bBTkv1cVVI0L_7kLRZ-UmY" bgColor="#000000"/>
 
@@ -118,7 +122,7 @@ class About extends Component {
 
 
               <p>
-              Here are my social links to learn more about updates to Eth-ter-I-Die, upcoming projects and contact me.
+              Here are all of my social links to learn more about updates to Eth-ter-I-Die, upcoming projects or contact me.
               </p>
                 <PersonalSocial />
 
@@ -134,7 +138,7 @@ class About extends Component {
             </Accordion.Toggle>
             <Accordion.Collapse eventKey="3">
               <Card.Body>
-            <p>Eth-ter-I-Die is constantly under development if you want to help out head to THE GIHUB LINK </p>
+            <p>Eth-ter-I-Die is constantly under development if you want to help out head to <NavLink to="https://github.com/lu-calm/eth-ter-i-die">The GitHub</NavLink> </p>
 
             <p>
             Here are some planned feature to Eth-ter-I-Die for the short and long term
@@ -153,7 +157,7 @@ class About extends Component {
 - Add OpenSea DApp instructions
   </dd>
   <dd>
-- Add more DApp and Service instructions (suggest via Twitter)
+- Add more DApp and Service instructions!
   </dd>
   <dt>Long Term</dt>
   <dd>- Make decentralised (currently hosted on GitHub Pages...)</dd>
@@ -179,22 +183,24 @@ class About extends Component {
             <p>
             <dl>
             <dt>
-            News and Updates: 13/08/2020
+            14/08/2020
+            </dt>
+            <dd>
+            Alpha version released
+            </dd>
+            <dt>
+            13/08/2020
             </dt>
             <dd>
             There is no previous news or updates...
             </dd>
-            </dl></p>
+            </dl>
+            </p>
               </Card.Body>
             </Accordion.Collapse>
           </Card>
 
-
-
-
         </Accordion>
-
-
 
         </Container>
 

@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Container, Card, Accordion } from 'react-bootstrap'
+import { Container, Card, Accordion, NavLink } from 'react-bootstrap'
 import { SocialIcon } from 'react-social-icons';
 
 
@@ -22,12 +22,17 @@ I strongly believe Eth-ter-I-Die should be a free service for all of the Ethereu
           </p>
 
           <p class="text-center">
-          If you are happy with this service and want to support future features, a donation would be greatly appreciated.
+If you are happy with this service and want to support future features, a donation would be greatly appreciated. Thank you
           {'  '} <span aria-label="Beaming Smiley Face" role="img">&#128522;</span>
 
   </p>
 <p class="text-center">
-          Donation Address:
+Donation Address: 0xa28910bcbe9a1b9119940343c02cae65c1b22cc5
+</p>
+
+<p class="text-center">
+
+<NavLink to="https://etherscan.io/address/0xa28910bcbe9a1b9119940343c02cae65c1b22cc5">View on Etherscan</NavLink>
           </p>
             </Card.Body>
           </Accordion.Collapse>
@@ -42,23 +47,22 @@ I strongly believe Eth-ter-I-Die should be a free service for all of the Ethereu
         <Accordion.Collapse eventKey="1">
           <Card.Body>
         <p class="text-center">
-Bear with me, I work on Eth-ter-I-Die as and when I can.
+Bear with me, I have a full time job but I do I work on Eth-ter-I-Die as and when I can.
   </p>
 
   <p class="text-center">
-I will keep adding new DApps, services and features for the betterment of the site. However I am quite new to coding so it is a bit of a learning curve!
+I will keep adding new DApps, services and features for the betterment for it to be more useful for more people.
 </p>
 
 <p class="text-center">
-If you would like to help improve the shambles of code I have written, here is the GitHub account!
+I am quite new to coding so it is a bit of a learning curve! If you would like to help improve the shambles of code I have written, here is the GitHub account.
 </p>
 <p class="text-center">
 <SocialIcon url="https://github.com/lu-calm/eth-ter-i-die" bgColor="#000000"/>
 </p>
 
   <p class="text-center">
-  You can witness my struggles on my youtube channel. Feel free to comment if you have any tips or advice, any help is greatly appreciated!
-  </p>
+You can witness my struggles of the development process on my YouTube channel.  </p>
 <p class="text-center">
   <SocialIcon url="https://www.youtube.com/channel/UC9GTIw90lZei5mUfjmTf7fg" bgColor="#000000"/>
 
@@ -81,6 +85,10 @@ If you would like to help improve the shambles of code I have written, here is t
         </p>
         <p class="text-center">
         Also let me know, via twitter, if you have any requests for new DApps or services to be added to Eth-ter-I-Die. I will try my best to add them ASAP!
+      </p>
+      <p class="text-center">
+
+      Anyway, cheers for reading all of this, I hope you have a great day.
       </p>
 
       <p class="text-center">

@@ -38,8 +38,8 @@ const products = [
       },
       {
         id: 2,
-        'name': 'CoinBase',
-        'category': 'Off Ramp',
+        'name': 'Coinbase',
+        'category': 'On Ramp/ Off Ramp',
         dapplink: 'https://www.coinbase.com/',
         flink : '/DappData/coinbase.txt'
       },
@@ -63,6 +63,13 @@ const products = [
         'category': 'End',
         dapplink: 'https://eth-ter-i-die.rip/',
         flink : '/BaseData/end.txt'
+      },
+      {
+        id: 6,
+        'name': 'Uniswap',
+        'category': 'Exchanges',
+        dapplink: 'https://uniswap.org/',
+        flink : '/BaseData/uniswap.txt'
       },
     ]
 

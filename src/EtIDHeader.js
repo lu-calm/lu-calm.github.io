@@ -26,9 +26,11 @@ const EtIDHeader = () => (
         Don’t let your Ethereum assets be lost to the blockchain when you die.
         </p>
         <p class="text-center">
-        Eth-ter-I-Die produces a basic introduction to Ethereum and template of instructions for your non-technical beneficiary to convert your Ethereum Tokens, from a variety of different DApps, to Ether and transfer your Ether to their local currency.
+Eth-ter-I-Die produces a basic introduction to Ethereum and template of instructions for your non-technical beneficiary to convert your Ethereum Tokens, from a variety of different DApps, to Ether and transfer your Ether to their local currency.
         </p>
-
+<p class="text-center">
+Additional options/ selections coming soon, please send suggestions to me add on <NavLink to="https://twitter.com/lu_calm">My Twitter</NavLink>.
+    </p>
     </Col>
   </Row>
 

@@ -20,9 +20,10 @@ throughout this document.
 
 -= My Ethereum Address =-
 
-My Ethereum Address is made of numbers and characters, there will be no spaces or
-special characters within it. My Ethereum Address is publicly known information and,
-like a postal address, is required in order to receive Assets.
+My Ethereum Address is made of numbers, lower case letters and upper case letters, 
+there will be no spaces or special characters within it. My Ethereum Address is 
+publicly known information and, like a postal address, is required in order 
+to receive Assets.
 
 My Ethereum Address:
 

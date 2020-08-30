@@ -43,13 +43,13 @@ function MyVerticallyCenteredModal(props) {
       </Modal.Header>
       <Modal.Body>
           <p class="text-break">
-        By confirming this .txt file download you are agreeing that Eth-ter-I-Die.rip and associated parties are not liable for any loss of Ether or Ethreum tokens/ assets that may occur during this process.
+By confirming this .txt file download you are agreeing that Eth-ter-I-Die and associated parties are not liable for any loss of Ether or Ethereum tokens/ assets that may occur during this process.
   </p>
   <p class="text-break">
 This is a literal “How to Guide” of removing your Ethereum assets.
 </p>
 <p class="text-break">
- Do Not save any seed phrase digitally and keep the completed document in a safe place.
+Do Not save any seed phrase digitally and keep the completed document in a safe place.
         </p>
 
       </Modal.Body>
