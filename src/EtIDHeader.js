@@ -29,7 +29,7 @@ const EtIDHeader = () => (
 Eth-ter-I-Die produces a basic introduction to Ethereum and template of instructions for your non-technical beneficiary to convert your Ethereum Tokens, from a variety of different DApps, to Ether and transfer your Ether to their local currency.
         </p>
 <p class="text-center">
-Additional options/ selections coming soon, please send suggestions to me add on <NavLink to="https://twitter.com/lu_calm">My Twitter</NavLink>.
+Additional options/ selections coming soon, please send suggestions to me on <NavLink to="https://twitter.com/lu_calm">My Twitter</NavLink>.
     </p>
     </Col>
   </Row>
