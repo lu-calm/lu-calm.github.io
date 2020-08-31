@@ -85,6 +85,13 @@ const products = [
         dapplink: 'https://www.ethvm.com/',
         flink : '/DappData/ethvm.txt'
       },
+      {
+        id: 9,
+        'name': 'PoolTogether',
+        'category': 'DApps and Services',
+        dapplink: 'https://www.pooltogether.com/',
+        flink : '/DappData/pooltogether.txt'
+      },
     ]
 
     const columns = [{

@@ -47,7 +47,7 @@ Please select your chosen On-Ramp/ Off-Ramp for your beneficiaries to transfer y
   <div class="d-flex justify-content-center">
   <ToggleButtonGroup type='checkbox' name='On Ramp/ Off Ramp'>
   <ToggleButton variant="outline-dark" onChange={getSelectedCheckboxValues} value='/DappData/coinbase.txt' >Coinbase</ToggleButton>
-  <ToggleButton variant="outline-dark" onChange={getSelectedCheckboxValues} value='/DappData/uphold.txt' disabled>Uphold</ToggleButton>
+  <ToggleButton variant="outline-dark" onChange={getSelectedCheckboxValues} value='/DappData/uphold.txt' disabled>Coming Soon</ToggleButton>
 
    </ToggleButtonGroup>
   </div>
@@ -115,7 +115,7 @@ Please select the DApps and Services your beneficiaries will need to interact wi
     <div class="d-flex justify-content-center">
     <ToggleButtonGroup type='checkbox' name='DApps and Services'>
     <ToggleButton variant="outline-dark" onChange={getSelectedCheckboxValues} value='/DappData/compound.txt' >Compound</ToggleButton>
-    <ToggleButton variant="outline-dark" onChange={getSelectedCheckboxValues} value='/DappData/pooltogether.txt' disabled>Coming Soon</ToggleButton>
+    <ToggleButton variant="outline-dark" onChange={getSelectedCheckboxValues} value='/DappData/pooltogether.txt' >PoolTogether</ToggleButton>
 
     </ToggleButtonGroup>
     </div>
