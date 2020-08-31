@@ -91,7 +91,7 @@ Please select a an Alternate Wallet you wish your beneficiaries to access.
     <Col>
     <div class="d-flex justify-content-center">
     <ToggleButtonGroup type='checkbox' name='Alternate Wallets'>
-    <ToggleButton variant="outline-dark" onChange={getSelectedCheckboxValues} value='/DappData/ledger.txt' disabled>Ledger</ToggleButton>
+    <ToggleButton variant="outline-dark" onChange={getSelectedCheckboxValues} value='/DappData/ledger.txt' disabled>Coming Soon</ToggleButton>
 
     </ToggleButtonGroup>
     </div>
@@ -113,8 +113,8 @@ Please select the DApps and Services your beneficiaries will need to interact wi
     <Col>
     <div class="d-flex justify-content-center">
     <ToggleButtonGroup type='checkbox' name='DApps and Services'>
-    <ToggleButton variant="outline-dark" onChange={getSelectedCheckboxValues} value='/DappData/compound.txt' disabled>Compound</ToggleButton>
-    <ToggleButton variant="outline-dark" onChange={getSelectedCheckboxValues} value='/DappData/pooltogether.txt' disabled>Pool Together</ToggleButton>
+    <ToggleButton variant="outline-dark" onChange={getSelectedCheckboxValues} value='/DappData/compound.txt' >Compound</ToggleButton>
+    <ToggleButton variant="outline-dark" onChange={getSelectedCheckboxValues} value='/DappData/pooltogether.txt' disabled>Coming Soon</ToggleButton>
 
     </ToggleButtonGroup>
     </div>

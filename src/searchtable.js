@@ -31,7 +31,7 @@ const products = [
       {
         id: 1,
         'name': 'Etherscan.io',
-        'category': 'Blockchain Explorer',
+        'category': 'Blockchain Explorers',
         dapplink: 'https://etherscan.io/',
         flink:'/DappData/etherscan.txt'
 
@@ -39,14 +39,14 @@ const products = [
       {
         id: 2,
         'name': 'Coinbase',
-        'category': 'On Ramp/ Off Ramp',
+        'category': 'On Ramps/ Off Ramps',
         dapplink: 'https://www.coinbase.com/',
         flink : '/DappData/coinbase.txt'
       },
       {
         id: 3,
         'name': 'Metamask',
-        'category': 'Wallet/ DApp Gateway',
+        'category': 'Wallet and DApp Gateways',
         dapplink: 'https://metamask.io/',
         flink : '/DappData/metamask.txt'
       },
@@ -70,6 +70,13 @@ const products = [
         'category': 'Exchanges',
         dapplink: 'https://uniswap.org/',
         flink : '/BaseData/uniswap.txt'
+      },
+      {
+        id: 7,
+        'name': 'Compound',
+        'category': 'DApps and Services',
+        dapplink: 'https://compound.finance/',
+        flink : '/BaseData/compound.txt'
       },
     ]
 
