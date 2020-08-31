@@ -69,21 +69,21 @@ const products = [
         'name': 'Uniswap',
         'category': 'Exchanges',
         dapplink: 'https://uniswap.org/',
-        flink : '/BaseData/uniswap.txt'
+        flink : '/DappData/uniswap.txt'
       },
       {
         id: 7,
         'name': 'Compound',
         'category': 'DApps and Services',
         dapplink: 'https://compound.finance/',
-        flink : '/BaseData/compound.txt'
+        flink : '/DappData/compound.txt'
       },
       {
         id: 8,
         'name': 'EthVM',
         'category': 'Blockchain Explorers',
         dapplink: 'https://www.ethvm.com/',
-        flink : '/BaseData/ethvm.txt'
+        flink : '/DappData/ethvm.txt'
       },
     ]
 
