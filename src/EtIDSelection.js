@@ -22,8 +22,9 @@ Please select the Blockchain Explorer you wish you beneficiaries to use. It is r
 
  <Col>
 <div class="d-flex justify-content-center">
-<ToggleButtonGroup type='checkbox' name='BlockChainExplorer' defaultValue={'/DappData/etherscan.txt'}>
+<ToggleButtonGroup type='checkbox' name='BlockChainExplorer'>
 <ToggleButton variant="outline-dark" onChange={getSelectedCheckboxValues} value='/DappData/etherscan.txt' >Etherscan</ToggleButton>
+<ToggleButton variant="outline-dark" onChange={getSelectedCheckboxValues} value='/DappData/ethvm.txt' >EthVM</ToggleButton>
 </ToggleButtonGroup>
 </div>
      </Col>

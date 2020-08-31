@@ -30,7 +30,7 @@ const linkFormatterB = (cell, row, rowIndex) => {
 const products = [
       {
         id: 1,
-        'name': 'Etherscan.io',
+        'name': 'Etherscan',
         'category': 'Blockchain Explorers',
         dapplink: 'https://etherscan.io/',
         flink:'/DappData/etherscan.txt'
@@ -77,6 +77,13 @@ const products = [
         'category': 'DApps and Services',
         dapplink: 'https://compound.finance/',
         flink : '/BaseData/compound.txt'
+      },
+      {
+        id: 8,
+        'name': 'EthVM',
+        'category': 'Blockchain Explorers',
+        dapplink: 'https://www.ethvm.com/',
+        flink : '/BaseData/ethvm.txt'
       },
     ]
 
