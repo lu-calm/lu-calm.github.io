@@ -47,7 +47,7 @@ Please select your chosen On-Ramp/ Off-Ramp for your beneficiaries to transfer y
   <div class="d-flex justify-content-center">
   <ToggleButtonGroup type='checkbox' name='On Ramp/ Off Ramp'>
   <ToggleButton variant="outline-dark" onChange={getSelectedCheckboxValues} value='/DappData/coinbase.txt' >Coinbase</ToggleButton>
-  <ToggleButton variant="outline-dark" onChange={getSelectedCheckboxValues} value='/DappData/uphold.txt' disabled>Coming Soon</ToggleButton>
+  <ToggleButton variant="outline-dark" onChange={getSelectedCheckboxValues} value='/DappData/uphold.txt' >Uphold</ToggleButton>
 
    </ToggleButtonGroup>
   </div>

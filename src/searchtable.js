@@ -92,6 +92,13 @@ const products = [
         dapplink: 'https://www.pooltogether.com/',
         flink : '/DappData/pooltogether.txt'
       },
+      {
+        id: 10,
+        'name': 'Uphold',
+        'category': 'On Ramps/ Off Ramps',
+        dapplink: 'https://www.uphold.com/',
+        flink : '/DappData/uphold.txt'
+      },
     ]
 
     const columns = [{
