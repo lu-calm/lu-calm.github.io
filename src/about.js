@@ -64,7 +64,9 @@ class About extends Component {
               - The generated template will inform your loved ones on how to transfer your Ethereum assets to Ether first and then to fiat. This is in order to reduced complexity and minimise confusion.
               </p>
               <p class="text-break">
-              - The content has been kept as concise as possible for the instructions to be followed as safely as possible. Some principles of Ethereum have been omitted for the purposed of reducing complexity. If you have suggestions of content improvements please contact me on <NavLink to="https://twitter.com/lu_calm">My Twitter</NavLink>.
+              - The content has been kept as concise as possible for the instructions to be followed as safely as possible. Some principles of Ethereum have been omitted for the purposed of reducing complexity. If you have suggestions of content improvements please contact me on <a href="https://twitter.com/lu_calm" target="_blank" rel="noopener noreferrer">
+                my Twitter
+              </a>.
               </p>
               <p class="text-break">
               - It is assumed you have enough Ether/ Gwei in your account to cover the transaction fees.

@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Container, Card, Accordion, NavLink } from 'react-bootstrap'
+import { Container, Card, Accordion } from 'react-bootstrap'
 import { SocialIcon } from 'react-social-icons';
 
 
@@ -31,8 +31,9 @@ Donation Address: 0xa28910bcbe9a1b9119940343c02cae65c1b22cc5
 </p>
 
 <p class="text-center">
-
-<NavLink to="https://etherscan.io/address/0xa28910bcbe9a1b9119940343c02cae65c1b22cc5">View on Etherscan</NavLink>
+<a href="https://etherscan.io/address/0xa28910bcbe9a1b9119940343c02cae65c1b22cc5" target="_blank" rel="noopener noreferrer">
+  View on Etherscan
+</a>
           </p>
             </Card.Body>
           </Accordion.Collapse>
@@ -81,7 +82,9 @@ You can witness my struggles of the development process on my YouTube channel.  
         <Accordion.Collapse eventKey="2">
           <Card.Body>
         <p class="text-center">
-        If you have some feedback or suggestions for Eth-ter-I-Die, please contact me via twitter.
+        If you have some feedback or suggestions for Eth-ter-I-Die, please contact me via <a href="https://twitter.com/lu_calm" target="_blank" rel="noopener noreferrer">
+          my Twitter
+        </a>.
         </p>
         <p class="text-center">
         Also let me know, via twitter, if you have any requests for new DApps or services to be added to Eth-ter-I-Die. I will try my best to add them ASAP!
