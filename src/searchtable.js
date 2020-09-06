@@ -99,6 +99,13 @@ const products = [
         dapplink: 'https://www.uphold.com/',
         flink : '/DappData/uphold.txt'
       },
+      {
+        id: 11,
+        'name': 'Easy Staking',
+        'category': 'DApps and Services',
+        dapplink: 'https://easy-staking.xdaichain.com/',
+        flink : '/DappData/easystaking.txt'
+      },
     ]
 
     const columns = [{

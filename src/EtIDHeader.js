@@ -26,7 +26,7 @@ const EtIDHeader = () => (
         Don’t let your Ethereum assets be lost to the blockchain when you die.
         </p>
         <p class="text-center">
-Eth-ter-I-Die produces instructions for your non-technical beneficiary to convert your Ethereum  Tokens, from a variety of different DApps, to Ether and transfer that Ether to your beneficiaries local currency. Once completing your selection of DApps and services a .txt file is generated that allows you to edit, print and then hand write the private details required for your beneficiaries to access your accounts. This document should be kept as safe as your seed phrase as it is a literal "how to guide" on accessing all of your Ethereum based assets. 
+Eth-ter-I-Die produces instructions for your non-technical beneficiary to convert your Ethereum  Tokens, from a variety of different DApps, to Ether and transfer that Ether to your beneficiaries local currency. Once completing your selection of DApps and services a .txt file is generated that allows you to edit, print and then hand write the private details required for your beneficiaries to access your address/ wallets. This document should be kept as safe as your seed phrase as it is a literal "how to guide" on accessing all of your Ethereum based assets. 
         </p>
 <p class="text-center">
 Additional options/ selections coming soon, please send suggestions to me on <a href="https://twitter.com/lu_calm" target="_blank" rel="noopener noreferrer">
