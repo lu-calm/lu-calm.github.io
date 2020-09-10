@@ -12,6 +12,7 @@ transfer of one type of Ethereum based Token to another type Ethereum based Toke
 Within this section of the document we will cover the following topics.
 
 -= Connect to Uniswap =-
+-= Removing Tokens from Liquidity Pools =-
 -= Transfer Tokens to Ether =-
 -= Tokens to Transfer =-
 
@@ -43,6 +44,57 @@ Click Connect.
 
 If successful, on the Uniswap page the "Connect Wallet" button will be replaced with
 my Ethereum Address.
+
+-= Removing Tokens from Liquidity Pools =-
+
+Within Uniswap you are able to store pairs of different Tokens within the DApp and this
+helps other people to trade the Token. This is called "Liquidity Pools" 
+
+In this section you are going to remove my Token pairs from the Liquidity Pools.
+
+In the centre of the web-page there is a box with "Swap" highlighted at the top of it.
+
+Click "Pool’ text next to the highlighted "Swap".
+
+At the bottom of the centred webpage element there is a section called "Your Liquidity". 
+This identifies all of the Token pairs I have in Liquidity Pools.
+
+You will need to go through this process for each of Token pairs identified in this section.
+
+Click on one of the Token pair options under the "Your Liquidity" text.
+
+Click on the "Remove" button.
+
+A new centred element will load.
+
+Click the "Max" button.
+
+It may take a few seconds for the "Approve" button to be highlighted pink, you will 
+need to wait for this to happen.
+
+Click the "Approve" button.
+
+Confirm the approval using the Wallet and Dapp Gateway.
+
+This will allow the "Remove" button to be highlighted.
+
+Click the "Remove" button.
+
+Confirm the transaction using the Wallet and Dapp Gateway.
+
+The Transaction will be submitted for the transfer of the Token and it now needs to be
+approved by the Ethereum Blockchain. Approval can take seconds, minutes, hours or days
+depending on how many Transactions are awaiting approval.
+
+The  Wallet and Dapp Gateway will give confirmation when the Transaction has
+been approved.
+
+If the Transaction is rejected try the above steps again.
+
+On Transaction confirmation the two tokens in the Token pair will be transferred out
+of the Liquidity Pool.
+
+Repeat the removal process for each of the Token pairs listed.
 
 -= Transfer Tokens to Ether =-
 

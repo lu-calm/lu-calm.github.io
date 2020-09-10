@@ -140,7 +140,10 @@ Anyway, you can see the painstaking process to get to this stage via my Eth-ter-
             </Accordion.Toggle>
             <Accordion.Collapse eventKey="3">
               <Card.Body>
-            <p>Eth-ter-I-Die is constantly under development if you want to help out head to <NavLink to="https://github.com/lu-calm/eth-ter-i-die">The GitHub</NavLink> </p>
+            <p>Eth-ter-I-Die is constantly under development if you want to help out head to <a href="https://github.com/lu-calm/eth-ter-i-die" target="_blank" rel="noopener noreferrer">
+              the GitHub page.
+            </a>
+            </p>
 
             <p>
             Here are some planned feature to Eth-ter-I-Die for the short and long term

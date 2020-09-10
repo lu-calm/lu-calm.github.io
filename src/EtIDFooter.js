@@ -17,7 +17,11 @@ const EtIDFooter= () => (
   </a></small>
   </pre>
  </p>
-
+ <p>
+ <a href="https://gitcoin.co/grants/1119/eth-ter-i-die" target="_blank" rel="noopener noreferrer">
+   Support on Gitcoin
+ </a>
+</p>
  <p>
 <SiteSocial />
  </p>
