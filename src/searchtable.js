@@ -106,6 +106,13 @@ const products = [
         dapplink: 'https://easy-staking.xdaichain.com/',
         flink : '/DappData/easystaking.txt'
       },
+      {
+        id: 12,
+        'name': 'Yearn',
+        'category': 'DApps and Services',
+        dapplink: 'https://yearn.finance/dashboard',
+        flink : '/DappData/yearn.txt'
+      },
     ]
 
     const columns = [{

@@ -1,0 +1,185 @@
+------------------------------------------------------------------------------------------
+-= Service Name: Yearn =-
+-= Service Type: DApp or Service =-
+
+-= This information was updated and correct as of: 13/09/2020 =-
+
+-= Note: This section accesses my Wallet and guides on the removal of Assets
+Please follow the instructions carefully =-
+
+Yearn is a Decentralised finance application that finds optimum interest rates for
+Ethereum based Assets from a number of providers and methods across the
+Ethereum Blockchain.
+
+The aim of this section is to remove the assets I have stored with Yearn and return
+them to the Wallet and DApp Gateway.
+
+Within this section of the document we will cover the following topics.
+
+-= Connect to Yearn =-
+-= Withdraw Assets process in Earn  =-
+-= Withdraw Assets from Earn  =-
+-= Withdraw Assets Process in Vaults  =-
+-= Withdraw Assets from Vaults  =-
+
+These may be referenced in other sections from other services in this document.
+These topics may not be conducted in order and may need to be conducted multiple times
+throughout this document.
+
+-= Connect to Yearn =-
+
+In your internet browser search/ address bar type: "yearn.finance/dashboard"
+
+Press Enter to access the website.
+
+Click "Connect your Wallet" on the left top right.
+
+In the options select the Wallet identified in the Wallet and DApp Gateway section of
+this document.
+
+A new screen will pop-up asking for login-in details for your Wallet and DApp Gateway.
+
+Log-in to you Wallet and DApp in the pop-up screen with your Wallet and DApp
+Gateway password.
+
+Select account with my Ethereum Address.
+
+Click Connect.
+
+If successful, on the Yearn page the "Connect your Wallet" button will be replaced with
+my Ethereum Address.
+
+-= Withdraw Assets process in Earn  =-
+
+This section will outline how to withdraw a selection of assets back to your my wallet.
+
+Note: The list of Assets/ Tokens to go through this process will be identified in the
+next section, labelled -= Withdraw Assets from Earn  =-. Within this section it
+will recommend what selections you need to make to withdraw each of the Assets.
+
+In your internet browser search/ address bar type: "yearn.finance/earn"
+
+Press Enter to access the website.
+
+This page will display all the different types of Ethereum based Assets that can
+be deposited on Yearn to earn interest on them.
+
+There are options at the top of the page that will need to be to be selected,
+this will be referenced as "Top Options" in this document.
+
+The "Top Options" include:
+
+- V1
+- y.curve.fi
+- busd.curve.fi
+
+Once the correct "Top Option" has been selected you can search for the Asset that 
+is to be withdrawn.
+
+Click the Asset to be withdrawn. This will make the element larger.
+
+On the right hand-side of the element click the "100%" text.
+
+Click "Claim".
+
+A new pop-up will be on the screen with the title "Confirm Transaction". 
+
+You need to Confirm the transaction with the Wallet and DApp Gateway. As the Wallet
+and DApp Gateway was connected previously another pop-up of the Wallet and DApp
+Gateway will appear on the screen.
+
+Click Confirm on the new Wallet and DApp Gateway pop-up.
+
+The Transaction will be submitted to withdraw the Asset and it now needs to be
+approved by the Ethereum Blockchain. Approval can take seconds, minutes, hours or days
+depending on how many Transactions globally are awaiting approval.
+
+The  Wallet and DApp Gateway will give confirmation when the Transaction has
+been approved.
+
+If the Transaction is rejected try the above steps again.
+
+Once approved the Asset will now have been successfully transferred to the connected
+Wallet and DApp Gateway.
+
+Repeat the above steps for each to the Assets identified in
+the -= Withdraw Assets from Earn  =- section.
+
+-= Withdraw Assets from Earn  =-
+
+!!! NOTE FOR AUTHOR: Copy and complete the token template seen below as many times as
+required for the Tokens to be removed from Yearn. Complete the template and
+delete this NOTE FOR AUTHOR and any unused Token templates. END OF NOTE FOR AUTHOR !!!
+
+Use the process identified in the -= Withdraw Assets from Earn  =- section for each
+of the Assets listed below. Only withdraw one Asset at a time.
+
+------------------------------------------
+Top Option:
+
+Asset Name:
+------------------------------------------
+
+There are no more tokens to add for the Earn section.
+
+-= Withdraw Assets Process in Vaults  =-
+
+This section will outline how to withdraw a selection of assets back to your my wallet.
+
+Note: The list of Assets/ Tokens to go through this process will be identified in the
+next section, labelled -= Withdraw Assets from Vault  =-. Within this section it
+will recommend what selections you need to make to withdraw each of the Assets.
+
+In your internet browser search/ address bar type: "yearn.finance/vault"
+
+Press Enter to access the website.
+
+This page will display all the different types of Ethereum based Assets that can be
+deposited on Yearn to earn interest on them.
+
+search for the Asset that is to be withdrawn.
+
+Click the Asset to be withdrawn. This will make the element larger.
+
+On the right hand-side of the element click "Withdrawal All".
+
+A new pop-up will be on the screen with the title "Confirm Transaction". 
+
+You need to Confirm the transaction with the Wallet and DApp Gateway. As the
+Wallet and DApp Gateway was connected previously another pop-up of the Wallet and
+DApp Gateway will appear on the screen.
+
+Click Confirm on the new Wallet and DApp Gateway pop-up.
+
+The Transaction will be submitted to withdraw the Asset and it now needs to be
+approved by the Ethereum Blockchain. Approval can take seconds, minutes, hours or days
+depending on how many Transactions globally are awaiting approval.
+
+The  Wallet and DApp Gateway will give confirmation when the Transaction has
+been approved.
+
+If the Transaction is rejected try the above steps again.
+
+Once approved the Asset will now have been successfully transferred to the connected
+Wallet and DApp Gateway.
+
+Repeat the above steps for each to the Assets identified in the -= Withdraw Assets from
+Vault  =- section.
+
+-= Withdraw Assets from Vault  =-
+
+!!! NOTE FOR AUTHOR: Copy and complete the token template seen below as many times as
+required for the Tokens to be removed from Yearn. Complete the template and
+delete this NOTE FOR AUTHOR and any unused Token templates. END OF NOTE FOR AUTHOR !!!
+
+Use the process identified in the -= Withdraw Assets from Vault  =- section for each
+of the Assets listed below. Only withdraw one Asset at a time.
+
+------------------------------------------
+Asset Name:
+------------------------------------------
+
+There are no more tokens to add for the Vault section.
+
+This is the end of the Yearn section.
+------------------------------------------------------------------------------------------

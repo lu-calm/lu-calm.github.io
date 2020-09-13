@@ -117,6 +117,7 @@ Please select the DApps and Services your beneficiaries will need to interact wi
     <ToggleButton variant="outline-dark" onChange={getSelectedCheckboxValues} value='/DappData/compound.txt' >Compound</ToggleButton>
     <ToggleButton variant="outline-dark" onChange={getSelectedCheckboxValues} value='/DappData/pooltogether.txt' >PoolTogether</ToggleButton>
     <ToggleButton variant="outline-dark" onChange={getSelectedCheckboxValues} value='/DappData/easystaking.txt' >Easy Staking</ToggleButton>
+    <ToggleButton variant="outline-dark" onChange={getSelectedCheckboxValues} value='/DappData/yearn.txt' >Yearn</ToggleButton>
 
     </ToggleButtonGroup>
     </div>

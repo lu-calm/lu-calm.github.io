@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-                    Cryptocurrency (Ethereum) Asset Retrival Document
+                    Cryptocurrency (Ethereum) Asset Retrieval Document
 
                        Keep document contents private and secure.
 
@@ -14,20 +14,20 @@ Dear _______________,
 
 
 
-This document will explain how you will be able to access my Cryptocurrency Assets 
+This document will explain how you will be able to access my Cryptocurrency Assets
 based on the Ethereum Blockchain.
 
 There may be a lot of new words and concepts that will be introduced to you. Words
 with high importance of understanding have been capitalised throughout this document.
-These words can be referenced in the glossary found in the appendix to assist with 
+These words can be referenced in the glossary found in the appendix to assist with
 your understanding with more detailed explanations.
 
 Cryptocurrencey is a term used to describe currencies that use Blockchain technology.
-Blockchain technology is secure record keeping of Assets of all the accounts 
+Blockchain technology is secure record keeping of Assets of all the accounts
 using the Blockchain.
 
 Ethereum is a decentralised Blockchain that has its own currency (Ether) and can
-create other Cryptocurrencies and Tokens. Ether, Cryptocurrencies and Tokens have 
+create other Cryptocurrencies and Tokens. Ether, Cryptocurrencies and Tokens have
 real world monetary value. These instructions will guide you in how to move
 my Ether, Cryptocurrencies and Tokens (Assets) off the Ethereum Blockchain to money in
 your bank account.
@@ -51,31 +51,31 @@ As the Ethereum Blockchain is Decentralised these applications they are often re
 as Decentralised Applications (DApps.) Like applications on a mobile phone, Dapps can
 provide a variety of functions. Some Dapps are games that create new Assets as they are
 played, some DApps transfer Assets from one type to another, some DApps offer lending
-and borrowing of Ether or Assets. Beyond these basic examples there are many different 
-types of DApps that have many different functionalities. DApps can store Ether and Assets 
-from an Address but will require the authorisation of the associated Wallet. To remove 
-the Ether and Assets stored in the DApp back to the Address also requires the 
+and borrowing of Ether or Assets. Beyond these basic examples there are many different
+types of DApps that have many different functionalities. DApps can store Ether and Assets
+from an Address but will require the authorisation of the associated Wallet. To remove
+the Ether and Assets stored in the DApp back to the Address also requires the
 authorisation of the associated Wallet.
 
 The movement of Ether or Assets from one address to another is called a Transaction.
 On the Ethereum Blockchain, Transactions require payments for them to be carried out.
-The price of the Transaction is dependent on how much Gas the transaction requires and 
-the current Gas Price. The amount of Gas the Transaction requires depends on the 
-complexity of the Transaction. The Gas Price changes depending on how many 
-Transactions the Ethereum network is currently requested to make. Transaction times 
+The price of the Transaction is dependent on how much Gas the transaction requires and
+the current Gas Price. The amount of Gas the Transaction requires depends on the
+complexity of the Transaction. The Gas Price changes depending on how many
+Transactions the Ethereum network is currently requested to make. Transaction times
 can take seconds, several minutes or even days. Generally, the higher the
 Gas Price you pay, the quicker the Transaction will take place. When you set up a
-Transaction through a Wallet you can choose what Gas Price you are willing to pay 
+Transaction through a Wallet you can choose what Gas Price you are willing to pay
 for the Transaction. Wallets also offer default Gas Price options with indications
-of how long the Transaction will take at that point in time. Gas is paid in Ether, 
+of how long the Transaction will take at that point in time. Gas is paid in Ether,
 it is normally represented in a smaller unit of Ether known as Gwei.
 1,000,000,000 Gwei is equal to 1 Ether, like how 100 Cents are in 1 Dollar. An Address
 will need Ethereum/ Gwei associated with it in order to carry out a Transaction.
 
 To summarise, my Ether and Assets are stored in Wallets and DApps on the Ethereum
-Blockchain. Ether and Assets have real world monetary value. In order to transfer 
-the Ether and Assets Transactions will need to be made and the Gas Price paid. 
-The instructions within this document will guide you on how to retrieve my Ether 
+Blockchain. Ether and Assets have real world monetary value. In order to transfer
+the Ether and Assets Transactions will need to be made and the Gas Price paid.
+The instructions within this document will guide you on how to retrieve my Ether
 and Assets and convert them to money that can be deposited into your bank account.
 
 -= Tips and Advice =-
@@ -129,8 +129,8 @@ This ends the example.
 
 -= Warning =-
 
-Please follow these instructions very carefully, a single miss-click or typo could 
-lead to the assets being inaccessible. There will be notes within the document 
+Please follow these instructions very carefully, a single miss-click or typo could
+lead to the assets being inaccessible. There will be notes within the document
 of when to take extra care.
 
 Do not share or copy this document as it could lead to others accessing the assets.
