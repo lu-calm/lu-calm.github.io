@@ -1,0 +1,114 @@
+------------------------------------------------------------------------------------------
+-= Service Name: Aave =-
+-= Service Type: DApp or Service =-
+
+-= This information was updated and correct as of: 21/09/2020 =-
+
+-= Note: This section accesses my Wallet and guides on the removal of Assets
+Please follow the instructions carefully =-
+
+Aave is a Decentralised finance application that finds optimum interest rates for
+Ethereum based Assets from a number of providers and methods across the
+Ethereum Blockchain.
+
+The aim of this section is to remove the assets I have stored with Aave and return
+them to the Wallet and DApp Gateway.
+
+Within this section of the document we will cover the following topics.
+
+-= Connect to Aave =-
+-= Withdraw Assets from Deposit =-
+-= Select Market =-
+
+These may be referenced in other sections from other services in this document.
+These topics may not be conducted in order and may need to be conducted multiple times
+throughout this document.
+
+= Connect to Aave =-
+
+In your internet browser search/ address bar type: "app.aave.com"
+
+Press Enter to access the website.
+
+An element will be on the screen asking to "Select your Market".
+
+Click the "X" in the top corner.
+
+Click Wallet icon in the top left of the page and select "Connect your Wallet".
+
+In the options select the Wallet identified in the Wallet and DApp Gateway section of
+this document. If you are unable to find your specific wallet, select "Browser Wallet".
+
+A new screen will pop-up asking for login-in details for your Wallet and DApp Gateway.
+
+Log-in to you Wallet and DApp in the pop-up screen with your Wallet and DApp
+Gateway password.
+
+Select account with my Ethereum Address.
+
+Click Connect.
+
+If successful, if you click on the Wallet icon on the top right of the Aave page
+the "Connect your Wallet" button will be replaced with my Ethereum Address.
+
+-= Withdraw Assets from Deposit =-
+
+This section will outline how to withdraw a selection of assets back to your my wallet.
+
+In your internet browser search/ address bar type: "app.aave.com/deposit"
+
+Press Enter to access the website.
+
+This "Deposit" will display all the different types of Ethereum based Assets that
+can be deposited on Aave to earn interest on them.
+
+The Assets I have invested with Aave can be identified within the "Assets" section of
+the page with a button labelled "Withdraw".
+
+The process for removal is the same for each Asset in Aave, please follow the below
+steps for each Asset listed with the "Withdraw" button.
+
+Click "Withdraw".
+
+Select "100%".
+
+Click "Withdraw".
+
+A new pop-up will be on the screen with the title "Confirm Transaction".
+
+You need to Confirm the transaction with the Wallet and DApp Gateway. As the Wallet
+and DApp Gateway was connected previously another pop-up of the Wallet and
+DApp Gateway will appear on the screen.
+
+Click Confirm on the new Wallet and DApp Gateway pop-up.
+
+The Transaction will be submitted to withdraw the Asset and it now needs to be
+approved by the Ethereum Blockchain. Approval can take seconds, minutes, hours or days
+depending on how many Transactions globally are awaiting approval.
+
+The  Wallet and Dapp Gateway will give confirmation when the Transaction has
+been approved.
+
+If the Transaction is rejected try the above steps again.
+
+Once approved the Asset will now have been successfully transferred to the
+connected Wallet and DApp Gateway.
+
+Repeat this process for the remaining Assets in the "Assets" section.
+-= Select Market =-
+
+Within Aave there are different Markets that are available. My Assets could be stored
+in more than one of these markets.
+
+By default, Aave is set to the Aave market.
+
+The market can be changed by clicking the button below the "Change Market" text at 
+the bottom right of the webpage.
+
+Go through each of the markets available,checking the Deposit page this is accessed via "app.aave.com/deposit" as shown in the -= Withdraw Assets from Deposit =- section.
+
+If the "Withdraw" button is visible for any of the assets. Follow the same process for
+removing the Assets as shown in the -= Withdraw Assets from Deposit =- section.
+
+This is the end of the Aave section.
+------------------------------------------------------------------------------------------
