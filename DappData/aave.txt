@@ -102,10 +102,11 @@ in more than one of these markets.
 
 By default, Aave is set to the Aave market.
 
-The market can be changed by clicking the button below the "Change Market" text at 
+The market can be changed by clicking the button below the "Change Market" text at
 the bottom right of the webpage.
 
-Go through each of the markets available,checking the Deposit page this is accessed via "app.aave.com/deposit" as shown in the -= Withdraw Assets from Deposit =- section.
+Go through each of the markets available,checking the Deposit page this is accessed
+via "app.aave.com/deposit" as shown in the -= Withdraw Assets from Deposit =- section.
 
 If the "Withdraw" button is visible for any of the assets. Follow the same process for
 removing the Assets as shown in the -= Withdraw Assets from Deposit =- section.
