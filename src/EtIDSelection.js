@@ -114,15 +114,28 @@ Please select the DApps and Services your beneficiaries will need to interact wi
     <Col>
     <div class="d-flex justify-content-center">
     <ToggleButtonGroup type='checkbox' name='DApps and Services'>
+    <ToggleButton variant="outline-dark" onChange={getSelectedCheckboxValues} value='/DappData/aave.txt' >Aave</ToggleButton>
     <ToggleButton variant="outline-dark" onChange={getSelectedCheckboxValues} value='/DappData/compound.txt' >Compound</ToggleButton>
-    <ToggleButton variant="outline-dark" onChange={getSelectedCheckboxValues} value='/DappData/pooltogether.txt' >PoolTogether</ToggleButton>
     <ToggleButton variant="outline-dark" onChange={getSelectedCheckboxValues} value='/DappData/easystaking.txt' >Easy Staking</ToggleButton>
-    <ToggleButton variant="outline-dark" onChange={getSelectedCheckboxValues} value='/DappData/yearn.txt' >Yearn</ToggleButton>
 
     </ToggleButtonGroup>
     </div>
        </Col>
      </Row>
+     <br />
+
+     <Row>
+     <Col>
+     <div class="d-flex justify-content-center">
+     <ToggleButtonGroup type='checkbox' name='DApps and Services2'>
+
+  <ToggleButton variant="outline-dark" onChange={getSelectedCheckboxValues} value='/DappData/pooltogether.txt' >PoolTogether</ToggleButton>
+  <ToggleButton variant="outline-dark" onChange={getSelectedCheckboxValues} value='/DappData/yearn.txt' >Yearn</ToggleButton>
+
+     </ToggleButtonGroup>
+     </div>
+        </Col>
+      </Row>
 
      <br />
     <Row className="justify-content-md-center">

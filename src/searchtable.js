@@ -113,6 +113,13 @@ const products = [
         dapplink: 'https://yearn.finance/dashboard',
         flink : '/DappData/yearn.txt'
       },
+      {
+        id: 13,
+        'name': 'Aave',
+        'category': 'DApps and Services',
+        dapplink: 'https://app.aave.com/home',
+        flink : '/DappData/aave.txt'
+      },
     ]
 
     const columns = [{
