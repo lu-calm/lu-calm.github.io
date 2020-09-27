@@ -1,0 +1,120 @@
+------------------------------------------------------------------------------------------
+-= Service Name: Loopring =-
+-= Service Type: DApp or Service =-
+
+-= This information was updated and correct as of: 27/09/2020 =-
+
+-= Note: This section accesses my Wallet and guides on the removal of Assets
+Please follow the instructions carefully =-
+
+Loopring is a Decentralised Exchange that uses an alternative method for making
+Transactions. In order to make Transactions on the Loopring exchange, Assets need to
+be deposited with the application.
+
+The aim of this section is to remove the assets I have stored with Loopring and return
+them to the Wallet and DApp Gateway.
+
+Within this section of the document we will cover the following topics.
+
+-= Connect to Loopring =-
+-= Withdraw Assets from Loopring =-
+
+These may be referenced in other sections from other services in this document.
+These topics may not be conducted in order and may need to be conducted multiple times
+throughout this document.
+
+-= Connect to Loopring =-
+
+In your internet browser search/ address bar type: "loopring.io"
+
+Press Enter to access the website.
+
+
+Click "Connect your Wallet" on the left top right.
+
+In the options select the Wallet identified in the Wallet and DApp Gateway section of
+this document.
+
+A new screen will pop-up asking for login-in details for your Wallet and DApp Gateway.
+
+Log-in to you Wallet and DApp in the pop-up screen with your Wallet and DApp
+Gateway password.
+
+Select the account with my Ethereum Address.
+
+Click Connect.
+
+If successful, on the Loopring web-page the "Connect your Wallet" button will be
+replaced with my Ethereum Address. There will be a red padlock next to my
+Ethereum Address this indicates my Loopring account is currently is locked.
+
+Now you need to unlock your account.
+
+Click my Ethereum Address in the top right of the web-page.
+
+A new web-page element will appear from the right.
+
+Click "Unlock".
+
+A new web-page element will appear it the centre of the screen.
+
+Click "Unlock".
+
+A new screen will pop-up asking for login-in details for your Wallet and DApp Gateway.
+
+Click "Sign".
+
+If successful, on the Loopring web-page the red padlock will be replaced by an
+unlocked blue padlock.
+
+-= Withdraw Assets from Loopring =-
+
+This section will outline how to withdraw a selection of assets back to your my wallet.
+
+Click "Account" at the top of the web-page.
+
+At the bottom of the page there will be a table of all Assets that can be
+traded on Loopring.
+
+In the top header of the table click "Available". This will organise the Assets I
+have stored within Loopring with the highest amount to zero.
+
+Each of the Assets listed with a non-zero value in the "Available" column will need to
+be withdrawn.
+
+Follow the below process for each Asset with a non-zero balance.
+
+Choose an Asset to withdraw with a non-zero balance.
+
+Click the associated "Withdraw" button on the right of the table.
+
+At the bottom of the newly loaded element is the amount of the chosen Asset
+is "Available to Withdraw".
+
+Type the amount identified as "Available to Withdraw" in the "Amount" text input field.
+
+A new pop-up will be on the screen with the title "Confirm Transaction".
+
+You need to Confirm the transaction with the Wallet and DApp Gateway. As the Wallet
+and DApp Gateway was connected previously another pop-up of the Wallet and DApp Gateway
+will appear on the screen.
+
+Click Confirm on the new Wallet and DApp Gateway pop-up.
+
+The Transaction will be submitted to withdraw the Asset and it now needs to be
+approved by the Ethereum Blockchain. Approval can take seconds, minutes, hours or days
+depending on how many Transactions globally are awaiting approval.
+
+The  Wallet and Dapp Gateway will give confirmation when the Transaction has
+been approved.
+
+If the Transaction is rejected try the above steps again.
+
+Once approved the Asset will now have been successfully transferred to the connected
+Wallet and DApp Gateway.
+
+Repeat this process for the remaining Assets that have non-zero balance in
+the "Available" column of the Asset table.
+
+This is the end of the Loopring section.
+------------------------------------------------------------------------------------------

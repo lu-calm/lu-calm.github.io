@@ -120,6 +120,13 @@ const products = [
         dapplink: 'https://app.aave.com/home',
         flink : '/DappData/aave.txt'
       },
+      {
+        id: 14,
+        'name': 'Loopring',
+        'category': 'DApps and Services',
+        dapplink: 'https://loopring.io/',
+        flink : '/DappData/loopring.txt'
+      },
     ]
 
     const columns = [{
